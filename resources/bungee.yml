@@ -1,0 +1,5 @@
+name: MattTimeBungee
+version: '1.0-SNAPSHOT'
+main: org.mattplugins.mattTimeBungee.MattTimeBungee
+author: matt
+description: Matt´s Ban Checker & banner 
